@@ -1,3 +1,5 @@
 read item 1, item 2, item 3
 bill = item1+item2+item3
 display bill
+if bill more than 50 omr than 5% discount
+else no discount 
